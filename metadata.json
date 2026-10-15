@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Impact: Gravitational Sandbox",
+  "description": "Interactive 3D N-body celestial sandbox to launch asteroids into simulated solar systems, study gravitational slingshots, spacetime curvature, tidal disruption, and kinetic planetary impacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
